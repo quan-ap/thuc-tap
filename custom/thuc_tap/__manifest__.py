@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
-    'name': 'Thực Tập',
+    'name': 'Thực Tập ',
     'version': '0.1',
     'sequence': 5,
     'category': 'Productivity',
@@ -17,6 +17,7 @@ Bla bla bla...
         'data/sequence_bidding_package.xml',
         'data/sequence_size_standard.xml'
     ],
+
     'installable': True,
     'application': True,
 }
